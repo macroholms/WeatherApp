@@ -1,3 +1,5 @@
 Необходимо добавить в res/values/string строку:
 ```xml
-<string name="api_key">ВАШ_API_КЛЮЧ</string>.```
+<string name="api_key">ВАШ_API_КЛЮЧ</string>
+```
+Выполнили Мазур, Филатов.
